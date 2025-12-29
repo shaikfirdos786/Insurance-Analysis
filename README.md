@@ -20,6 +20,14 @@ The project covers:
 
 ---
 
+## Data Source
+The datasets used in this project are available via Google Drive due to file size constraints.
+
+📂 **Google Drive Link (Datasets):**  
+👉 https://drive.google.com/drive/folders/1hIoUeTTAkpV6bsVkWiZbYH37kk6oaxbc?usp=sharing
+
+---
+
 ## Project Workflow
 
 ### 1. Data Cleaning (Excel)
@@ -69,3 +77,5 @@ Focus was on **why a metric exists**, not just how to display it.
 
 ---
 
+## Contact
+- If you’d like to discuss this project or insurance analytics, feel free to connect on LinkedIn.
